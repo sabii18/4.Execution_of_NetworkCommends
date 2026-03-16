@@ -136,19 +136,19 @@ client.close()
 
 ### Ping Command:
 
-
+![alt text](<Screenshot 2026-03-16 101024.png>)
 
 ### Trace Route Command:
 
-
+![alt text](<Screenshot 2026-03-16 101916.png>)
 
 ### Nslookup Command:
 
-
+![alt text](<Screenshot 2026-03-16 102059.png>)
 
 ### Netstat Command:
 
-
+![alt text](<Screenshot 2026-03-16 102240.png>)
 
 ## Result
 Thus Execution of Network commands Performed 
