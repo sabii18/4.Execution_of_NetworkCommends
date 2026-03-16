@@ -136,11 +136,19 @@ client.close()
 
 ### Ping Command:
 
+
+
 ### Trace Route Command:
+
+
 
 ### Nslookup Command:
 
+
+
 ### Netstat Command:
+
+
 
 ## Result
 Thus Execution of Network commands Performed 
